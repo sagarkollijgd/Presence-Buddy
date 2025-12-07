@@ -1,0 +1,5 @@
+{
+  "name": "Presence Buddy",
+  "description": "A mindfulness application that sends periodic reminders to return to the present moment with curated quotes.",
+  "requestFramePermissions": []
+}
